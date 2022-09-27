@@ -1,0 +1,4 @@
+Vibrance = +100
+Contrast = +100
+Shadows = +80
+Temp = +15
