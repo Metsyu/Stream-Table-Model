@@ -24,4 +24,4 @@ Instructions for running the program are as follows:
 	
 	After saving and executing the program, you will be prompted to enter a folder (e.g. RUN1). If the folder entered 
 	is invalid, you will be prompted to enter one again. Once a valid folder is entered, the program will 
-	convert the images and then save them to the directory that you insterted on line 151.
+	convert the ".png" images and then save them to the directory that you insterted on line 151.
